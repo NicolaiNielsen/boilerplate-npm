@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jane Doe",
 	"description": "Server implementation for eventApp",
-	"keywords": ["api", "server", "backend", "node.js"],
+	"keywords": ["api", "server", "backend", "node.js", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
