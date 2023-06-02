@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jane Doe",
+	"description": "Server implementation for eventApp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
