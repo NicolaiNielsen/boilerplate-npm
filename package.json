@@ -4,6 +4,7 @@
 	"description": "Server implementation for eventApp",
 	"keywords": ["api", "server", "backend", "node.js", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
